@@ -1,0 +1,16 @@
+C:\Users\Maddie\Documents\devCodeCamp\C#\RPSLS\RPSLS\RPSLS\bin\Debug\net5.0\RPSLS.exe
+C:\Users\Maddie\Documents\devCodeCamp\C#\RPSLS\RPSLS\RPSLS\bin\Debug\net5.0\RPSLS.deps.json
+C:\Users\Maddie\Documents\devCodeCamp\C#\RPSLS\RPSLS\RPSLS\bin\Debug\net5.0\RPSLS.runtimeconfig.json
+C:\Users\Maddie\Documents\devCodeCamp\C#\RPSLS\RPSLS\RPSLS\bin\Debug\net5.0\RPSLS.runtimeconfig.dev.json
+C:\Users\Maddie\Documents\devCodeCamp\C#\RPSLS\RPSLS\RPSLS\bin\Debug\net5.0\RPSLS.dll
+C:\Users\Maddie\Documents\devCodeCamp\C#\RPSLS\RPSLS\RPSLS\bin\Debug\net5.0\ref\RPSLS.dll
+C:\Users\Maddie\Documents\devCodeCamp\C#\RPSLS\RPSLS\RPSLS\bin\Debug\net5.0\RPSLS.pdb
+C:\Users\Maddie\Documents\devCodeCamp\C#\RPSLS\RPSLS\RPSLS\obj\Debug\net5.0\RPSLS.csproj.AssemblyReference.cache
+C:\Users\Maddie\Documents\devCodeCamp\C#\RPSLS\RPSLS\RPSLS\obj\Debug\net5.0\RPSLS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maddie\Documents\devCodeCamp\C#\RPSLS\RPSLS\RPSLS\obj\Debug\net5.0\RPSLS.AssemblyInfoInputs.cache
+C:\Users\Maddie\Documents\devCodeCamp\C#\RPSLS\RPSLS\RPSLS\obj\Debug\net5.0\RPSLS.AssemblyInfo.cs
+C:\Users\Maddie\Documents\devCodeCamp\C#\RPSLS\RPSLS\RPSLS\obj\Debug\net5.0\RPSLS.csproj.CoreCompileInputs.cache
+C:\Users\Maddie\Documents\devCodeCamp\C#\RPSLS\RPSLS\RPSLS\obj\Debug\net5.0\RPSLS.dll
+C:\Users\Maddie\Documents\devCodeCamp\C#\RPSLS\RPSLS\RPSLS\obj\Debug\net5.0\ref\RPSLS.dll
+C:\Users\Maddie\Documents\devCodeCamp\C#\RPSLS\RPSLS\RPSLS\obj\Debug\net5.0\RPSLS.pdb
+C:\Users\Maddie\Documents\devCodeCamp\C#\RPSLS\RPSLS\RPSLS\obj\Debug\net5.0\RPSLS.genruntimeconfig.cache
