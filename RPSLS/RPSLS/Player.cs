@@ -9,43 +9,43 @@ namespace RPSLS
     public class Player
     {
         public string name;
-        public string gestures;
+        public string gesture;
 
 
-        public Player(string name)
+        public Player()
         {
-            this.name= name;
+           
             
         }        
 
         public void ChooseGesture()
         {
-            string playerChoosenGesture = Console.ReadLine();
+            string playerChoosenGesture = System.Console.ReadLine();
 
             switch (playerChoosenGesture)
             {
                 case ("Rock"):
-                    Console.WriteLine("Rock");
-                    this.gestures = "Rock";
+                    System.Console.WriteLine("Rock");
+                    this.gesture = "Rock";
                     break;
                 case ("Paper"):
-                    Console.WriteLine("Paper");
-                    this.gestures = "Paper";
+                    System.Console.WriteLine("Paper");
+                    this.gesture = "Paper";
                     break;
                 case ("Scissors"):
-                    Console.WriteLine("Scissors");
-                    this.gestures = "Scissors";
+                    System.Console.WriteLine("Scissors");
+                    this.gesture = "Scissors";
                     break;
                 case ("Lizard"):
-                    Console.WriteLine("Lizard");
-                    this.gestures = "Lizard";
+                    System.Console.WriteLine("Lizard");
+                    this.gesture = "Lizard";
                     break;
                 case ("Spock"):
-                    Console.WriteLine("Spock");
-                    this.gestures = "Spock";
+                    System.Console.WriteLine("Spock");
+                    this.gesture = "Spock";
                     break;
                 default:
-                    Console.WriteLine("Not valid Gesture");
+                    System.Console.WriteLine("Not valid Gesture");
                     break;
                 
             }
