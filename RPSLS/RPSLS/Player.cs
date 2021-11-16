@@ -9,45 +9,52 @@ namespace RPSLS
     public class Player
     {
         public string name;
-        public string gesture;
+        
 
 
         public Player()
         {
            
             
-        }        
+        }
 
-        public void ChooseGesture()
+        public static string ChooseGesture
         {
-            string playerChoosenGesture = System.Console.ReadLine();
-
-            switch (playerChoosenGesture)
+            get
             {
-                case ("Rock"):
-                    System.Console.WriteLine("Rock");
-                    this.gesture = "Rock";
-                    break;
-                case ("Paper"):
-                    System.Console.WriteLine("Paper");
-                    this.gesture = "Paper";
-                    break;
-                case ("Scissors"):
-                    System.Console.WriteLine("Scissors");
-                    this.gesture = "Scissors";
-                    break;
-                case ("Lizard"):
-                    System.Console.WriteLine("Lizard");
-                    this.gesture = "Lizard";
-                    break;
-                case ("Spock"):
-                    System.Console.WriteLine("Spock");
-                    this.gesture = "Spock";
-                    break;
-                default:
-                    System.Console.WriteLine("Not valid Gesture");
-                    break;
-                
+                string playerChoosenGesture = Console.ReadLine();
+
+                if (playerChoosenGesture == "Rock")
+                {
+                    Console.WriteLine("Rock");
+                    return playerChoosenGesture;
+                }
+                else if (playerChoosenGesture == "Paper")
+                {
+                    Console.WriteLine("Paper");
+                    return playerChoosenGesture;
+                }
+                else if (playerChoosenGesture == "Scissors")
+                {
+                    Console.WriteLine("Scissors");
+                    return playerChoosenGesture;
+                }
+                else if (playerChoosenGesture == "Lizard")
+                {
+                    Console.WriteLine("Lizard");
+                    return playerChoosenGesture;
+                }
+                else if (playerChoosenGesture == "Spock")
+                {
+                    Console.WriteLine("Spock");
+                    return playerChoosenGesture;
+                }
+                else
+                {
+                    Console.WriteLine("Not valid Gesture");
+                }
+
+
             }
         }
     }
